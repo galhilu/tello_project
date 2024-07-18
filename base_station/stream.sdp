@@ -8,4 +8,3 @@ m=video 11111 RTP/AVP 96
 b=AS:200
 a=rtpmap:96 MP4V-ES/90000
 a=fmtp:96 profile-level-id=1
-
